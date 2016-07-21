@@ -1,0 +1,22 @@
+{
+  "name": "revuelto",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Vio <vio@beanon.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^6.3.7",
+    "css-mqpacker": "^5.0.1",
+    "csswring": "^5.1.0",
+    "gulp": "^3.9.1",
+    "gulp-jade": "^1.1.0",
+    "gulp-postcss": "^6.1.1",
+    "gulp-stylus": "^2.5.0",
+    "lodash": "^4.13.1",
+    "stylus-normalize": "^3.0.3"
+  }
+}
